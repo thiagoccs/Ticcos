@@ -1,8 +1,18 @@
 .header {
     border: 3px solid red;
+    color: white;
+    font-family: 'Satisfy', cursive;
 }
 .hamburguer {
     border-radius: 50%;
     width: 400px;
     height: 400px;
+}
+body {
+    /* background-color: burlywood; */
+    background-image: url(https://images3.alphacoders.com/215/thumb-1920-21575.jpg);
+    background-size: cover;
+}
+section {
+    color: white;
 }
